@@ -6,4 +6,4 @@ Employee Review Analysis Framework is a web application designed for job seekers
 
 Tools|Languages: HTML, CSS, Bootstrap, Bower, JavaScript, JQuery, Sessions, Service, MorisJS Bar Charts,
                  Java 8 for crawlers, ML Algorithm- SVM (LibSVM) for classification, Python Script for training data creation, 
-                 MySql Server 5.5, Apache Maven 3.3.9, Apache Tomcat 8.0.15, Jetty Runner, Glassdoor API 
+                 MySql Server 5.5, Apache Maven 3.3.9, Apache Tomcat 8.0.15, Jetty Runner, Glassdoor API, JSON|XML|CSV|TEXT data
